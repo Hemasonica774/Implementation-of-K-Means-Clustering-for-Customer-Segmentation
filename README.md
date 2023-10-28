@@ -26,7 +26,34 @@ RegisterNumber: 212222230048
 ```
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+data.head():
+
+Screenshot 2023-10-26 090836
+
+data.info():
+
+Screenshot 2023-10-26 090842
+
+data.isnull().sum():
+
+Screenshot 2023-10-26 090849
+
+Elbow method:
+
+Screenshot 2023-10-26 090911
+
+K-Means:
+
+Screenshot 2023-10-26 091504
+
+Array value of Y:
+
+Screenshot 2023-10-26 091643
+
+Customer Segmentation:
+
+Screenshot 2023-10-26 091656
+
 
 
 ## Result:
